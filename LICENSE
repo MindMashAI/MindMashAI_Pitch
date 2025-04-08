@@ -1,21 +1,25 @@
-MIT License
+# Copyright © 2025 MindMash.AI
 
-Copyright (c) 2025 MindMashAI
+## Open Source Notice
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All **code snippets**, frontend components, and backend architecture shared within this pitch deck or associated files are open-sourced and available for community adaptation and learning under the **MIT License**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Intellectual Property Notice
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+However, the **design**, **visual identity**, **branding**, and **core product concepts** of MindMash.AI—such as:
+
+- "Mash.BiT" token model
+- Dual-wallet onboarding flow (Crossmint + Solflare)
+- Neural co-creation and collaboration mapping UX
+- AI-powered creative minting (memories, music, thought-forms)
+- The MindMash Manifesto and related narrative
+
+...are original IP belonging to the creators of MindMash.AI and remain protected under copyright.
+
+Unauthorized commercial use, duplication of product design, or derivative projects that closely mimic the MindMash experience without attribution or partnership may result in action.
+
+If you're interested in building with us or contributing, reach out directly at **team@mindmash.ai**.
+
+Stay neural.  
+— MindMash.AI Core Team
+
